@@ -1,4 +1,4 @@
-Some lovely text.
+Some lovely text originating in a new branch.
 
 And some additional text.
 
